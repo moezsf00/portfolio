@@ -1,0 +1,57 @@
+body{
+font-family: 'Roboto', sans-serif;
+
+}
+nav{
+height: 100px;
+background-color: cornflowerblue;
+}
+#nav{
+margin-left: 15%;    
+}
+
+#nav >li{
+display: inline; 
+margin-left: 20px;
+font-size: 50px;
+   
+}
+li a{
+text-decoration: none;
+color:white;
+}
+#nav> li a:hover{
+font-size:80px ;
+color: black;
+border-bottom: black 3px solid ;
+}
+
+#about{
+margin-left: 20%;
+margin-right: 20%;    
+}
+#work{
+    margin-left: 20%;
+    margin-right: 20%;    
+    }
+#resume {
+    margin-left: 20%;
+    margin-right: 20%;    
+    }
+#contact {
+        margin-left: 20%;
+        margin-right: 20%;    
+        }
+
+#home {
+margin-left: 20%;
+margin-right: 20%;    
+}        
+
+footer{
+ background-color: cornflowerblue;   
+}
+
+
+
+
